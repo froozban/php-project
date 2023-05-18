@@ -1,11 +1,9 @@
-
+﻿
 <!--contact us footer -->
 <section class="container-fluid bg-dark text-white mt-5 contact-us">
   <div class="container">
-    
-<div class="row  border-custom-bottom pb-5 mt-5 ">
-  
-    <div class="col-md-6 mb-3  mt-5 ">
+    <div class="row  border-custom-bottom pb-5 mt-5 ">
+      <div class="col-md-6 mb-3  mt-5 ">
      
           <h2 class="  mb-3 text-bold">ارتباط با ما</h2>
        <p >
